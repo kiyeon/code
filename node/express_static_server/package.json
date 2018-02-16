@@ -1,0 +1,16 @@
+{
+  "name": "express_static_server",
+  "version": "0.1.0",
+  "description": "Express를 이용한 가장 기본적인 정적서버",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kiyeon",
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
