@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6c1d4d3-7015-4c9d-a042-62f0ce8eca8d" name="Default" comment="IDE 설정파일 버전관리에서 제외">
+    <list default="true" id="f6c1d4d3-7015-4c9d-a042-62f0ce8eca8d" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/.idea/lam.iml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
@@ -86,8 +86,8 @@
       <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="68" column="25" lean-forward="false" selection-start-line="68" selection-start-column="25" selection-end-line="68" selection-end-column="25" />
+            <state relative-caret-position="384">
+              <caret line="65" column="25" lean-forward="false" selection-start-line="65" selection-start-column="25" selection-end-line="65" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -262,7 +262,7 @@
       <workItem from="1519004808122" duration="16677000" />
       <workItem from="1519087627751" duration="2327000" />
       <workItem from="1519366033350" duration="213000" />
-      <workItem from="1519366569300" duration="1953000" />
+      <workItem from="1519366569300" duration="2106000" />
     </task>
     <task id="LOCAL-00001" summary="MongoDB, 세션사용 예제">
       <created>1519366681875</created>
@@ -285,11 +285,18 @@
       <option name="project" value="LOCAL" />
       <updated>1519368504030</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="IDE 설정파일 버전관리에서 제외">
+      <created>1519368532614</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1519368532614</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22117000" />
+    <option name="totallyTimeSpent" value="22270000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -766,8 +773,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="68" column="25" lean-forward="false" selection-start-line="68" selection-start-column="25" selection-end-line="68" selection-end-column="25" />
+        <state relative-caret-position="384">
+          <caret line="65" column="25" lean-forward="false" selection-start-line="65" selection-start-column="25" selection-end-line="65" selection-end-column="25" />
           <folding />
         </state>
       </provider>
